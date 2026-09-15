@@ -42,7 +42,7 @@ The `Customer` table is designed to maintain information about customers registe
 | City              | VARCHAR(50)  | NOT NULL         |
 | Registration_Date | DATE         | NOT NULL         |
 
-## 🛠️ Database
+##  Database
 
 **Database Name:**
 
