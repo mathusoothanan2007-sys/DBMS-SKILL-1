@@ -1,12 +1,12 @@
 # E-Commerce Order Management Database System
 
-## 📌 Project Overview
+##  Project Overview
 
 The **E-Commerce Order Management Database System** is a database project designed to manage customer information and support basic e-commerce operations using SQL.
 
 The system identifies important e-commerce entities such as **Customer, Product, Order, Payment, Seller, and Review**. 
 
-## 🎯 Objectives
+##  Objectives
 
 * Maintain customer information
 * Store product information
@@ -17,7 +17,7 @@ The system identifies important e-commerce entities such as **Customer, Product,
 * Provide access to stored customer information
 * Support CRUD operations on customer records 
 
-## 🗂️ Entities
+##  Entities
 
 The main entities identified in the system are:
 
@@ -28,7 +28,7 @@ The main entities identified in the system are:
 5. **Seller**
 6. **Review**
 
-## 👤 Customer Table
+##  Customer Table
 
 The `Customer` table is designed to maintain information about customers registered in the e-commerce system. 
 
@@ -52,7 +52,7 @@ ecommerce_database
 
 The SQL script creates the database and `Customer` table with the required fields and constraints. 
 
-## 💻 CRUD Operations
+##  CRUD Operations
 
 The project supports the following customer record operations:
 
@@ -72,7 +72,7 @@ Changes selected customer details such as phone number and address.
 
 Removes a selected customer record. 
 
-## 🔐 Constraints
+## Constraints
 
 The Customer table uses:
 
@@ -81,11 +81,11 @@ The Customer table uses:
 * **UNIQUE** – Prevents duplicate Email and Phone values.
 * **DATE** – Registration_Date uses the DATE data type. 
 
-## 📊 Sample Data
+##  Sample Data
 
 The SQL script contains **10 customer records** with details including Customer ID, Name, Email, Phone, Address, City, and Registration Date. 
 
-## 📁 Project Files
+##  Project Files
 
 ```text
 DBMS-SKILL-1/
@@ -96,16 +96,16 @@ DBMS-SKILL-1/
 └── README.md
 ```
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 * **SQL**
 * **MySQL**
 * **Relational Database Management System (RDBMS)**
 
-## ✅ Conclusion
+##  Conclusion
 
 This project provides a defined structure for storing and managing customer registration information in an e-commerce database. The selected attributes, data types, constraints, and CRUD operations support organized customer data management. 
 
-## 👨‍💻 Author
+##  Author
 
 **MATHUSOOTHANAN**
